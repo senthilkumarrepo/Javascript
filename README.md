@@ -24,3 +24,5 @@ Reference URL : http://viralpatel.net/blogs/object-oriented-programming-with-jav
 Javascript Tutorial :
 1. JS Introduction,
 2. JS Output
+
+Interview Questions : https://www.toptal.com/javascript/interview-questions
