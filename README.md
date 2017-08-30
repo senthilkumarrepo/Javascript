@@ -11,9 +11,9 @@ Javascript Concepts :
 8. DOM Manipulation(DOM Handling), Event Handling and Event Bubbling.
 
 Reference URL's : 
-http://stackoverflow.com/documentation/javascript/topics
-https://developer.mozilla.org/en-US/docs/Web/Javascript
-https://javascript.info/
+1. http://stackoverflow.com/documentation/javascript/topics
+2. https://developer.mozilla.org/en-US/docs/Web/Javascript
+3. https://javascript.info/
 
 Javascript Topics :
 1. JS Introduction,
