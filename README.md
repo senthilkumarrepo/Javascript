@@ -15,6 +15,8 @@ Reference URL's :
 1. http://stackoverflow.com/documentation/javascript/topics
 2. https://developer.mozilla.org/en-US/docs/Web/Javascript
 3. https://javascript.info/
+4. https://www.quora.com/How-does-a-single-thread-handle-asynchronous-code-in-JavaScript
+5. https://www.quora.com/Is-the-JavaScript-runtime-single-threaded-or-multi-threaded
 
 
 Javascript Topics :
@@ -22,7 +24,7 @@ Javascript Topics :
 2. JS Output
 
 Reference URL's :
-1.https://www.w3schools.com/
+ 1.https://www.w3schools.com/
 
-Interview Questions : 
-1. https://www.toptal.com/javascript/interview-questions
+Interview Questions :
+ 1. https://www.toptal.com/javascript/interview-questions
