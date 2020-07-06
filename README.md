@@ -1,4 +1,4 @@
-# Javascript-Topics
+# Javascript
 
 Javascript Concepts:
 
@@ -16,9 +16,10 @@ Javascript Concepts:
 12. Event Handling, Event Listener(addEventListener, RemoveEventListener, AttachEvent - IE8),
 13. Event Capturing and Event Bubbling(MSDN, MDN, event.preventDefault() , event.stopPropagation()),
 14. JS Variables(public, private, protected),
-15. JS Versioning,
-16. JS Methods(Array.prototype.map),
-17. abstraction, encapsulation, polymorphism and inheritance.
+15. const vs var vs let,
+16. JS Versioning,
+17. JS Methods(Array.prototype.map),
+18. abstraction, encapsulation, polymorphism and inheritance.
 
 Browsers :
 1. Browser Engine,
