@@ -10,16 +10,17 @@ Javascript Concepts:
 6. Singleton and Instance,
 7. Self Invoked Functions and Closure,
 8. Promise vs Callbacks vs Async/Await,
-9. Single Threaded vs Multiple Threaded,
-10. Memory Leak(Overflow),
-11. DOM Manipulation(JS object is faster than DOM object) and DOM Handling,
-12. Event Handling, Event Listener(addEventListener, RemoveEventListener, AttachEvent - IE8),
-13. Event Capturing and Event Bubbling(MSDN, MDN, event.preventDefault() , event.stopPropagation()),
-14. JS Variables(public, private, protected),
-15. const vs var vs let,
-16. JS Versioning,
-17. JS Methods(Array.prototype.map),
-18. abstraction, encapsulation, polymorphism and inheritance.
+9. call vs apply vs bind
+10. Single Threaded vs Multiple Threaded,
+11. Memory Leak(Overflow),
+12. DOM Manipulation(JS object is faster than DOM object) and DOM Handling,
+13. Event Handling, Event Listener(addEventListener, RemoveEventListener, AttachEvent - IE8),
+14. Event Capturing and Event Bubbling(MSDN, MDN, event.preventDefault() , event.stopPropagation()),
+15. JS Variables(public, private, protected),
+16. const vs var vs let,
+17. JS Versioning,
+18. JS Methods(Array.prototype.map),
+19. abstraction, encapsulation, polymorphism and inheritance.
 
 Browsers :
 1. Browser Engine,
